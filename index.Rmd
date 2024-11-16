@@ -1,15 +1,26 @@
 ---
-title: "PSY6422 Project"
-author: "Maya"
-date: "2024-11-16"
-output: html_document
+title: "Project Test"
+author: 'Registration number: x'
+output: 
+  html_document:
+    toc: yes
+    toc_float: true
+    toc_collapsed: true
+    number_sections: true
+    code_folding: show
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Project Description/ Overview/ Research Question
+
+## Import Data
+
+## Wrangle Data
+
+## Visualise Data
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
