@@ -3,6 +3,7 @@ title: "Project Test"
 author: 'Registration number: x'
 output: 
   html_document:
+    theme: journal
     toc: yes
     toc_float: true
     toc_collapsed: true
